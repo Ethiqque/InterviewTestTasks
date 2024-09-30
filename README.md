@@ -8,3 +8,5 @@ Links on github repositories with solution
 * [**LHV Bank**](https://github.com/Ethiqque/lhv)
 * [**WeatherFetchAPI**](https://github.com/Ethiqque/WeatherFetchAPI)
 * [**Spotware**](https://github.com/Ethiqque/Spotware/tree/main)
+* [**FinancialReportsParcer**](https://github.com/Ethiqque/FinancialReportsParcer) - Parses Apple's financial PDF report and returns the data in JSON format
+
